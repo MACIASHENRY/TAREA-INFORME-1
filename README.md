@@ -1,7 +1,10 @@
 # TAREA-INFORME-1
 InformeTarea1
 NOMBRE: Henry Macías
+
 Fecha: Lunes 14 de nov. de 22
+[![yiyi.jpg](https://i.postimg.cc/2890vm4j/yiyi.jpg)](https://postimg.cc/RNf15ks2)
+
 NRC: Circuitos Eléctricos
 OBJETIVOS
 _Aprender la notación científica para la simplificación cifras muy altas o muy pequeñas
